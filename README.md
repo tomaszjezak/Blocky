@@ -1,3 +1,8 @@
+# What's Blocky?
+Blocky empowers creators and enhances AI -- ethically.
+
+Demo:  https://www.youtube.com/watch?v=RTPljR0zBP0
+
 # Inspiration
 Blocky was inspired by the growing need to address ethical issues in AI development, particularly around the use and compensation of creative content. AI companies often scrape the internet for any data they can get their hands on without properly licensing or compensating the creators. OpenAI and Anthropic are currently facing lawsuits for this. AI models are getting incredibly competent at generating art or music in an artist's style, due to being trained on their work. However, it’s becoming an increasingly prevalent issue where the original creators are not being compensated.
 
@@ -14,20 +19,20 @@ Data Seekers can then select their ideal Provider and specify the amount of data
 Our matching algorithms and database are designed to efficiently handle a worldwide user base. Additionally, since we do not directly host datasets, our scalability is further enhanced, allowing us to grow without the typical constraints of data storage.
 
 # Challenges we ran into
-Going through multiple iterations of fine-tuning language models to properly extract keywords from the Data Seeker input and then devising a way to match Data Seekers and Providers using keywords.
-Iterated multiple backend servers (FastAPI, Flask).
-Multiple attempts at building an Agent. First, tried to use Fetch.ai's tools, but ultimately used Google Gemini. Also, had difficulties prompting the Gemini Agent to properly interact with the user and create the Ethereum smart contract.
+- Going through multiple iterations of fine-tuning language models to properly extract keywords from the Data Seeker input and then devising a way to match Data Seekers and Providers using keywords.
+- Iterated multiple backend servers (FastAPI, Flask).
+- Multiple attempts at building an Agent. First, tried to use Fetch.ai's tools, but ultimately used Google Gemini. Also, had difficulties prompting the Gemini Agent to properly interact with the user and create the Ethereum smart contract.
 
 # Accomplishments that we're proud of
-Creating a functioning, full-stack app!
-Aligning our inner motivations to create an ethical project with the potential to better society!
-Successful integration of machine learning for matching.
-Successful implementation of Gemini-powered Agent.
+- Creating a functioning, full-stack app!
+- Aligning our inner motivations to create an ethical project with the potential to better society!
+- Successful integration of machine learning for matching.
+- Successful implementation of Gemini-powered Agent.
 
 # What we learned
-Complexities of fine-tuning, prompt-engineering, and natural language processing.
-Google AI Studio proficiency (in a few hours!)
-The needs of both artists and AI companies.
+- Complexities of fine-tuning, prompt-engineering, and natural language processing.
+- Google AI Studio proficiency (in a few hours!)
+- The needs of both artists and AI companies.
 
 # What's next for Blocky
 The future of Blocky involves expanding our user base and dataset offerings, enhancing our matching algorithms, and properly deploying our Ethereum smart contracts on the blockchain. Ultimately, we aim to establish Blocky as the standard for ethical AI data sourcing worldwide.
