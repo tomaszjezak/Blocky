@@ -1,5 +1,5 @@
-# What's Blocky?
-Blocky empowers creators and enhances AI -- ethically.
+# Blocky: Empowering Creators and Enhancing AI – Ethically
+Blocky connects AI companies with artists for ethical AI training & fine-tuning, ensuring fair compensation and redefining digital creativity fairness.
 
 Demo:  https://www.youtube.com/watch?v=RTPljR0zBP0
 
