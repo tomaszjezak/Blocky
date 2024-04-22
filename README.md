@@ -37,5 +37,12 @@ Our matching algorithms and database are designed to efficiently handle a worldw
 # What's next for Blocky
 The future of Blocky involves expanding our user base and dataset offerings, enhancing our matching algorithms, and properly deploying our Ethereum smart contracts on the blockchain. Ultimately, we aim to establish Blocky as the standard for ethical AI data sourcing worldwide.
 
+# Tech Stack:
+- Flask and Flutter for backend.
+- Firebase for database.
+- BLOOM-3b, Google Gemini 1.5 Pro, FastText, Google Colab, Python for Machine Learning.
+
+# Team Blocky: Tomasz Jezak, Alex Plashchinsky, Emre Turan
+![image](https://github.com/tomaszjezak/Blocky/assets/113561444/fae5a96b-5ce8-478c-97a2-c33996e82795)
 
 ### Presented at LA Hacks 2024 to 10 judges!
